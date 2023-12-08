@@ -6,8 +6,8 @@ Olá! Sou um apaixonado por tecnologia e inovação. Minha jornada profissional 
 
 ## Habilidades 🛠️
 
-- Linguagens: JavaScript e TypeScript
-- Bibliotecas e Frameworks: React, Node.js, Express e TypeORM
+- Linguagens: JavaScript, TypeScript e Python
+- Bibliotecas e Frameworks: React, Node.js, Express, TypeORM, Django, Prisma, Nest e Next
 - Banco de Dados: PostgreSQL
 
 ## Formação Acadêmica 📚
@@ -26,4 +26,4 @@ Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Se voc
 
 - ✉️ [E-mail](mariosilva.81@icloud.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mario-silva81)
-- 🌐 Portfólio - Em construção
+- 🌐 [Portfólio] (mariosilva.vercel.app)
