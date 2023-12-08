@@ -26,4 +26,4 @@ Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Se voc
 
 - ✉️ [E-mail](mariosilva.81@icloud.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mario-silva81)
-- 🌐 [Portfólio] (mariosilva.vercel.app)
+- 🌐 [Portfólio](https://mariosilva.vercel.app)
