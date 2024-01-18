@@ -4,13 +4,13 @@
 
 I'm switching careers and have experience in management, but my real love is tech! I've been diving into the world of technology, focusing on languages like JavaScript, TypeScript and Python. My goal? To spark innovation, streamline processes, whip up efficient solutions, and play a big role in making companies rock.
 
-- 🌍  I'm based in Araraquara, São Paulo, Brazil
-- 🖥️  See my portfolio at [website](http://mariosilva.vercel.app)
-- ✉️  You can contact me at [mariosilva.81@icloud.com](mailto:mariosilva.81@icloud.com)
+- 🌍  I'm based in Araraquara, São Paulo, Brazil.
+- 🖥️  See my portfolio at [website](http://mariosilva.vercel.app).
+- ✉️  You can contact me at [mariosilva.81@icloud.com](mailto:mariosilva.81@icloud.com).
 - 🚀  I'm currently working on a React application (with TMDB API).
-- 🧠  I'm learning Python and English
-- 🤝  I'm open to collaborating on interesting projects
-- ⚡  Avid reader of fiction, fantasy, horror and classics
+- 🧠  I'm learning Python and English.
+- 🤝  I'm open to collaborating on interesting projects.
+- ⚡  Avid reader of fiction, fantasy, horror and classics.
 
 ### Skills
 
