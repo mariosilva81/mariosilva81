@@ -7,7 +7,7 @@ I'm switching careers and have experience in management, but my real love is tec
 - 🌍  I'm based in Araraquara, São Paulo, Brazil
 - 🖥️  See my portfolio at [website](http://mariosilva.vercel.app)
 - ✉️  You can contact me at [mariosilva.81@icloud.com](mailto:mariosilva.81@icloud.com)
-- 🚀  I'm currently working on [Chat Online in Django](http://github.com/mariosilva81/chat-online-django)
+- 🚀  I'm currently working on a React application (with TMDB API).
 - 🧠  I'm learning Python and English
 - 🤝  I'm open to collaborating on interesting projects
 - ⚡  Avid reader of fiction, fantasy, horror and classics
