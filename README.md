@@ -1,18 +1,18 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mario Silva
+# Olá, meu nome é Mario Silva! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
-## Full Stack Web Developer
+## Desenvolvedor Web Full Stack
 
-I'm switching careers and have experience in management, but my real love is tech! I've been diving into the world of technology, focusing on languages like JavaScript, TypeScript and Python. My goal? To spark innovation, streamline processes, whip up efficient solutions, and play a big role in making companies rock.
+Estou fazendo uma transição de carreira e tenho experiência em gestão, mas meu verdadeiro amor é a tecnologia! Tenho me aprofundado no mundo da tecnologia, focando em linguagens como JavaScript, TypeScript e Python. Minha meta? Despertar a inovação, otimizar processos, criar soluções eficientes e desempenhar um papel importante no sucesso das empresas.
 
-- 🌍  I'm based in Araraquara, São Paulo, Brazil.
-- 🖥️  See my portfolio at [website](http://mariosilva.vercel.app).
-- ✉️  You can contact me at [mariosilva.81@icloud.com](mailto:mariosilva.81@icloud.com).
-- 🚀  I'm currently working on a React application (with TMDB API).
-- 🧠  I'm learning Python and English.
-- 🤝  I'm open to collaborating on interesting projects.
-- ⚡  Avid reader of fiction, fantasy, horror and classics.
+- 🌍  Moro em Araraquara, São Paulo.
+- 🖥️  Veja meu [portfólio](http://mariosilva.vercel.app).
+- ✉️  Entre em contato comigo através do meu [e-mail](mailto:mariosilva.81@icloud.com) ou [WhatsApp](https://wa.me/5516997654818).
+- 🚀  Estou trabalhando em uma aplicação React que estará disponível em breve.
+- 🧠  Estou focado no estudo de Python, Java e Inglês.
+- 🤝  Estou disponível para colaborar em projetos interessantes e desafiadores.
+- ⚡  Gosto muito de ler livros clássicos, de ficção e fantasia.
 
-### Skills
+### Tecnologias
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -32,7 +32,7 @@ I'm switching careers and have experience in management, but my real love is tec
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
                     
-### Socials
+### Redes Sociais
                                   
 <p align="left">
 <a href="https://www.dev.to/mariosilva81" target="_blank" rel="noreferrer"><picture>
