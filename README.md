@@ -7,7 +7,6 @@ Estou fazendo uma transição de carreira e tenho experiência em gestão, mas m
 - 🌍  Moro em Araraquara, São Paulo.
 - 🖥️  Veja meu [portfólio](http://mariosilva.vercel.app).
 - ✉️  Entre em contato comigo através do meu [e-mail](mailto:mariosilva.81@icloud.com) ou [WhatsApp](https://wa.me/5516997654818).
-- 🚀  Estou trabalhando em uma aplicação React que estará disponível em breve.
 - 🧠  Estou focado no estudo de Python, Java e Inglês.
 - 🤝  Estou disponível para colaborar em projetos interessantes e desafiadores.
 - ⚡  Gosto muito de ler livros clássicos, de ficção e fantasia.
