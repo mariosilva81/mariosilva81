@@ -30,6 +30,8 @@ Estou fazendo uma transição de carreira e tenho experiência em gestão, mas m
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x512-zi8589rq.png" width="36" height="36" alt="Cypress" /></a>
+</p>
                     
 ### Redes Sociais
                                   
