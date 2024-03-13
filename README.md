@@ -2,14 +2,28 @@
 
 ## Desenvolvedor Web Full Stack
 
-Estou fazendo uma transição de carreira e tenho experiência em gestão, mas meu verdadeiro amor é a tecnologia! Tenho me aprofundado no mundo da tecnologia, focando em linguagens como JavaScript, TypeScript e Python. Minha meta? Despertar a inovação, otimizar processos, criar soluções eficientes e desempenhar um papel importante no sucesso das empresas.
+### Experiência e Interesses:
+- Conhecimento nas linguagens de programação JavaScript, TypeScript e Python.
+- Atualmente dedicado ao aprendizado dos fundamentos e práticas de Qualidade de Software (testes manuais e automatizados).
+
+### Conhecimentos Práticos:
+- Experiência em desenvolvimento utilizando Node.js, React, Express, Django, Nest.js e Next.js.
+- Familiaridade com arquitetura de servidores e API RESTful.
+- Experiência com banco de dados relacionais (PostgreSQL).
+- Experiência com testes automatizados utilizando Cypress.
+
+### Domínio de Práticas Ágeis:
+- Aplicação de metodologias ágeis como Scrum e Kanban para entregas rápidas e iterativas.
+
+### Abordagem Adaptável:
+- Abertura para explorar e adaptar-se a uma variedade de tecnologias, refletindo uma abordagem flexível para resolver desafios.
+- Desejo de crescimento profissional contínuo e contribuição para o sucesso de projetos inovadores com conhecimento técnico e habilidades de gestão.
+
 
 - 🌍  Moro em Araraquara, São Paulo.
 - 🖥️  Veja meu [portfólio](http://mariosilva.vercel.app).
 - ✉️  Entre em contato comigo através do meu [e-mail](mailto:mariosilva.81@icloud.com) ou [WhatsApp](https://wa.me/5516997654818).
-- 🧠  Estou focado no estudo de Python, Java e Ruby.
 - 🤝  Estou disponível para colaborar em projetos interessantes e desafiadores.
-- ⚡  Gosto muito de ler livros clássicos, de ficção e fantasia.
 
 ### Tecnologias
 
