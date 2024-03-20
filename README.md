@@ -1,5 +1,10 @@
 # Olá, meu nome é Mario Silva! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
+- 🌍  Moro em Araraquara, São Paulo.
+- 🖥️  Veja meu [portfólio](http://mariosilva.vercel.app).
+- ✉️  Entre em contato comigo através do meu [e-mail](mailto:mariosilva.81@icloud.com) ou [WhatsApp](https://wa.me/5516997654818).
+- 🤝  Estou disponível para colaborar em projetos interessantes e desafiadores.
+
 ## Desenvolvedor Web Full Stack | QA
 
 ### Experiência e Interesses:
@@ -18,12 +23,6 @@
 ### Abordagem Adaptável:
 - Abertura para explorar e adaptar-se a uma variedade de tecnologias, refletindo uma abordagem flexível para resolver desafios.
 - Desejo de crescimento profissional contínuo e contribuição para o sucesso de projetos inovadores com conhecimento técnico e habilidades de gestão.
-
-
-- 🌍  Moro em Araraquara, São Paulo.
-- 🖥️  Veja meu [portfólio](http://mariosilva.vercel.app).
-- ✉️  Entre em contato comigo através do meu [e-mail](mailto:mariosilva.81@icloud.com) ou [WhatsApp](https://wa.me/5516997654818).
-- 🤝  Estou disponível para colaborar em projetos interessantes e desafiadores.
 
 ### Badges
 
