@@ -5,8 +5,6 @@
 - ✉️  Entre em contato comigo através do meu [e-mail](mailto:mariosilva.81@icloud.com) ou [WhatsApp](https://wa.me/5516997654818).
 - 🤝  Estou disponível para colaborar em projetos interessantes e desafiadores.
 
-## Desenvolvedor Web Full Stack | QA
-
 ### Experiência e Interesses:
 - Conhecimento nas linguagens de programação JavaScript, TypeScript e Python.
 - Atualmente dedicado ao aprendizado dos fundamentos, técnicas e ferramentas de Qualidade de Software.
